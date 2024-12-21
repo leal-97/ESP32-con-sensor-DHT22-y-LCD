@@ -104,7 +104,6 @@ void loop() {
 
 ## Resultados
 
-![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/resultado.jpeg )
 
 
 ## Créditos
