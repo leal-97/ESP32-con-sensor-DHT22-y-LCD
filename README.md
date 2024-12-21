@@ -1,5 +1,5 @@
 # ESP32-con-sensor-DHT22-y-LCD
-## Práctica de Tarjeta ESP32 con sensor DHT22 y Screen para monitoreo de temperatura y humedad
+## Práctica de Tarjeta ESP32 con sensor DHT22 y Screen LCD para monitoreo de temperatura y humedad
 
 En este repositorio muestraré como programar una tarjeta ESP32 utillizando un sensor DHT22 y una Screen LCD para monitorear humedad y temperatura del entorno que mostrará los resultados cada 2s.
 ## ESP32
@@ -94,9 +94,9 @@ void loop() {
 
 
 
-- 6.- Seleccionar el sensor en la parte de Simulacion con el botón **+** y buscar **DHT22**, **LCDI2C**, L. Agregar y conectar de la siguiente manera.
+- 6.- Seleccionar el sensor en la parte de Simulacion con el botón **+** y buscar **DHT22**, **LCDI2C**, Agregar y conectar de la siguiente manera.
 
-
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22-y-LCD/blob/main/diplomado.jpeg )
 
 ## Instrucción de operación:
 - Correr el simulador
@@ -104,6 +104,13 @@ void loop() {
 
 ## Resultados
 
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22-y-LCD/blob/main/diplomado.jpeg )
+
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22-y-LCD/blob/main/ing%20leal.jpeg )
+
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22-y-LCD/blob/main/yemperatura.jpeg )
 
 
 ## Créditos
