@@ -100,9 +100,10 @@ void loop() {
 
 ## Instrucción de operación:
 - Correr el simulador
-- Manipular los valores del sensor para observar los resultados de la medición arrojados
+- Manipular los valores del sensor para observar los resultados de la medición arrojados en la pantalla LCD
 
 ## Resultados
+Cuando haya compilado el código y corra la simulación, verás los valores y los textos en la pantalla LCD como se muestran en las siguentes imagenes cada 2s.
 
 ![]( https://github.com/leal-97/ESP32-con-sensor-DHT22-y-LCD/blob/main/diplomado.jpeg )
 
